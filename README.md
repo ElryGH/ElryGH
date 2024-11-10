@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CFQScaxeAm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-pflugradt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/elrymoede) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@elrymoe) 
+[![Discord Presence](https://lanyard.kyrie25.dev/api/755084025416253440)](https://discord.com/users/755084025416253440)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-pflugradt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/elrymoede) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@elrymoe) 
 
 # 💻 Tech Stack:
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![VB](https://img.shields.io/badge/VB6-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)</br>
