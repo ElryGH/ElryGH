@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord Presence](https://lanyard.kyrie25.dev/api/755084025416253440)](https://discord.com/users/755084025416253440)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/755084025416253440?showBanner=animated)](https://discord.com/users/755084025416253440)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-pflugradt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/elrymoede) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@elrymoe) 
 
