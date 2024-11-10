@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HikariWatch<br>🌱 I’m currently learning Unity Networking<br>💬 Ask me about Linux, C#, Unity, & Win<br>⚡ Fun fact: I watch anime in English dub
+🔭 I’m working on HikariWatch & Build n' Blast<br>🌱 I’m learning advanced C# & Unity Networking<br>💬 Ask me about Linux, C#, Unity, & Win<br>⚡ Fun fact: I watch anime in English dub
 
 
 ## 🌐 Socials:
