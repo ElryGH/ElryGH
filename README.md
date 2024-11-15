@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on [HikariWatch](https://github.com/ElryGH/HikariWatch) & [my Game](https://elry.moe/blogs/4/build-n-blast-development)<br>🌱 I’m learning C# & Unity Networking</br>💻 I use Windows 10 LTSC & Linux.<br>⚡ Fun fact: I watch anime in English dub
+🔭 I’m working on [HikariWatch](https://github.com/ElryGH/HikariWatch) & my Game.<br>🌱 I’m learning C# & Unity Networking</br>💻 I use Arch, Ubuntu & Linux in general.<br>⚡ Fun fact: I watch anime in English dub
 
 
 ## 🌐 Socials:
