@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on [HikariWatch](https://github.com/ElryGH/HikariWatch) & my Game.<br>🌱 I’m learning GDScript & Godot</br>💻 I use Arch, Ubuntu & Linux in general.<br>⚡ Fun fact: I watch anime in English dub
+🔭 I’m working on [HikariWatch](https://github.com/ElryGH/HikariWatch) & my Game.<br>🌱 I’m learning GDScript & Godot</br>💻 I use Windows & Linux.<br>⚡ Fun fact: I watch anime in English dub
 
 
 ## 🌐 Socials:
