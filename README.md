@@ -1,11 +1,11 @@
 # 💫 About Me:
-🔭 I’m working on [HikariWatch](https://github.com/ElryGH/HikariWatch) & my Game.<br>🌱 I’m learning Unity Multiplayer.</br>💻 I use Windows & Linux.<br>⚡ Fun fact: I watch anime in English dub
+🔭 I’m working on <ins>Build n' Blast</ins>.<br>🌱 I’m learning Unity Multiplayer.</br>💻 I use Windows 11 & Arch Linux.<br>⚡ I like to watch anime in English dub
 
 
 ## 🌐 Socials:
 [![Discord Presence](https://lanyard.kyrie25.dev/api/755084025416253440?waveColor=FF597B&waveSpotifyColor=FF597B)](https://discord.com/users/755084025416253440)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-pflugradt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/elrymoede) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@elrymoe) 
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/elry.moe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@elrymoe) 
 
 # 💻 Tech Stack:
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![VB](https://img.shields.io/badge/VB6-blue) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)</br>
