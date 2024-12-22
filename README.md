@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m looking for coding job offers.<br>💻 I use Windows 11 & Arch Linux.<br>⚡ I like to watch anime in English dub
+🔭 I’m working on <ins>Build n' Blast</ins>.<br>🌱 I’m learning Unity Multiplayer.</br>💻 I use Windows 11 & Arch Linux.<br>⚡ I like to watch anime in English dub
 
 
 ## 🌐 Socials:
