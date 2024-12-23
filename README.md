@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on [Build n' Blast](https://codegoblins.com/games/buildnblast).<br>🌱 I’m learning Unity Multiplayer.</br>💻 I use Windows 11 & Arch Linux.<br>⚡ I like to watch anime in English dub
+🔭 I’m working on [Build n' Blast](https://codegoblins.com/).<br>🌱 I’m learning Unity Multiplayer.</br>💻 I use Windows 11 & Arch Linux.<br>⚡ I like to watch anime in English dub
 
 
 ## 🌐 Socials:
