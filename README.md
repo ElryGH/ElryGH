@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on [Build n' Blast](https://codegoblins.com/).<br>🌱 I’m learning Purrnet Multiplayer.</br>💻 I use Win & Linux.<br>⚡ I like Anime, but dont watch it.
+🔭 I’m working on [Build n' Blast](https://codegoblins.com/).<br>🌱 I’m learning Purrnet Multiplayer.</br>💻 I use Win & Linux.<br>⚡ Im a Weeb, i love Manga.
 
 
 ## 🌐 Socials:
